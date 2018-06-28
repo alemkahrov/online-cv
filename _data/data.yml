@@ -161,7 +161,7 @@ projects:
     projects:
       - project:
         title: Vienna City Transfer
-        link: <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+        link: "https://www.w3schools.com"Visit W3Schools.com!
         tagline: "A responsive wordpress website using a template."
       - project:
         title: DevStudio
