@@ -211,7 +211,7 @@ skills:
           level: 90%
         - skill:
           name: Javascript & jQuery
-          level: 20%
+          level: 10%
         - skill:
           name: Bootstrap/Materialize
           level: 75%
