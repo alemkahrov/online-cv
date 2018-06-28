@@ -144,7 +144,7 @@ experiences:
           details: I was the representant of the Hotel.
           
         - role: Trainer/Receptionist
-          time: 06/2007 - 07/2012
+          time: 06/2007 - 07/2010
           company: Body Plus Fitnessclub, Vienna
           details: Personal Training & Administration work
           
@@ -161,9 +161,9 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Vienna City Transfer - Taxi Uber
+        link: "#vienna-city-transfer.at" "#taxi-uber.at"
+        tagline: "A responsive wordpress website using a template."
       - project:
         title: DevStudio
         link: "#"
