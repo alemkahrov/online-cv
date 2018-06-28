@@ -88,6 +88,33 @@ studies:
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
+      
+    - education:
+      degree: Adobe Photoshop Zertifikat 
+      university: Abelard Consulting, 1150 Wien
+      time: 07/2014 - 08/2014
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+      
+    - education:
+      degree: Diplom Fitness- Ernährungscoach 
+      university: Safa Sport & Fitness Management GmbH, 1190 Wien
+      time: 04/2007 - 07/2007
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+      
+    - education:
+      degree: Lehre zum Großhandelskaufmann mit Abschluss 
+      university: Berufsschule für Handel & Administration, 1160 Wien
+      time: 07/1999 - 06/2002
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
 
 
 
