@@ -136,12 +136,22 @@ experiences:
         - role: CEO Online Shop
           time: 2013 - 2017
           company: Proteinshop24, Vienna
-          details: I started this business to provide best quality Supplements to Bodybuilders & Athlets. I was selling all kind of supplements like: Protein Shakes, Amino/Bcaa Drinks, Protein Bars & Fitness Clothes. As a CEO i was doing everything from calculation, import, sending orders, social media and doing all the graphic design.
+          details: I started this business to provide best quality Supplements & Clothes to Bodybuilders & Athlets. As a CEO i was doing everything from calculation, import, sending orders, social media and doing all the graphic design.
           
         - role: Doorman
           time: 08/2010 - 11/2012
           company: Hotel Steigenberger, Vienna
           details: I was the representant of the Hotel.
+          
+        - role: Trainer/Receptionist
+          time: 06/2007 - 07/2012
+          company: Body Plus Fitnessclub, Vienna
+          details: Personal Training & Administration work
+          
+        - role: Employee in order processing
+          time: 07/2002 - 11/2005
+          company: Goodyear & Dunlop, Vienna
+          details: Personal Training & Administration work
 
 
 projects:
