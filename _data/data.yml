@@ -162,7 +162,7 @@ projects:
     projects:
       - project:
         title: Vienna City Transfer
-        link: "https//:www.vienna-city-transfer.at"
+        link: vienna-city-transfer.at
         tagline: "A responsive wordpress website using a template."
       - project:
         title: DevStudio
