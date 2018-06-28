@@ -49,7 +49,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passioned Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are always responsive for any device. My other skills include Wordpress, Photoshop, AdobeXD and Sketch. I'm motivated in learning new technologies to become a Full Stack Developer in Future.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: Hi, my name is Alem and I am a passionate "Self-taught" Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are always responsive for any device. My other skills include Wordpress, Photoshop, AdobeXD and Sketch. I'm motivated in learning new technologies to become a Full Stack Developer in Future.<a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
 studies: 
@@ -133,10 +133,10 @@ experiences:
           company: MPV Insurance GesmbH, Vienna
           details: A Startup company which offers all kind of insurances. Wordpress & Elementor was used to build this website.
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: CEO Online Shop
+          time: 2013 - 2017
+          company: Proteinshop24, Vienna
+          details: I started this business to provide best quality Supplements to Bodybuilders & Athlets. I was selling all kind of supplements like: Protein Shakes, Amino/Bcaa Drinks, Protein Bars & Fitness Clothes. As a CEO i was doing everything from calculation, import, sending orders, social media and doing all the graphic design.
 
 
 projects:
