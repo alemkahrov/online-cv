@@ -33,7 +33,7 @@ sidebar:
         
     interests:
         - interest:
-          item: Calesthenics
+          item: Calesthenics & Brazilian Jiu Jitsu
           link:
         - interest:
           item: Action Figures
@@ -128,10 +128,10 @@ experiences:
           company: Vienna City Transfer, Vienna
           details: This company offers Airport Transfers and Business Trips. This website was build with Wordpress/Theme. 
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Freelancer
+          time: 04/2018
+          company: MPV Insurance GesmbH, Vienna
+          details: A Startup company which offers all kind of insurances. Wordpress & Elementor was used to build this website.
         
         - role: UI Developer
           time: 2012 - 2014
