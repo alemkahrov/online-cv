@@ -161,8 +161,8 @@ projects:
     
     projects:
       - project:
-        title: Vienna City Transfer - Taxi Uber
-        link: "#vienna-city-transfer.at" "#taxi-uber.at"
+        title: Vienna City Transfer
+        link: "#vienna-city-transfer.at"
         tagline: "A responsive wordpress website using a template."
       - project:
         title: DevStudio
