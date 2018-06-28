@@ -49,8 +49,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate "Self-taught" Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are responsiv for any device. My other skills include Wordpress. I'm motivated in learning new technologies to become a Full Stack Developer in Future.<a href="https://vienna-city-transfer.at" target="_blank">Wordpress Project 1</a>
-    <a href="https://mpv-gmbh.at" target="_blank">Wordpress Project 2</a>
+    text: Hi, my name is Alem and I am a passionate "Self-taught" Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are responsiv for any device. My other skills include Wordpress. I'm motivated in learning new technologies to become a Full Stack Developer in Future. Wordpress Site 1: <a href="https://vienna-city-transfer.at" target="_blank">Click here</a>. Wordpress Site 2: <a href="https://mpv-gmbh.at" target="_blank">Click here</a>.
 
 studies: 
     - education:
