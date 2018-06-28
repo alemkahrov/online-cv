@@ -193,22 +193,22 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: HTML5 & CSS3/SASS
+          level: 90%
         - skill:
           name: Javascript & jQuery
-          level: 98%
+          level: 20%
         - skill:
-          name: Angular
-          level: 98%
+          name: Bootstrap/Materialize
+          level: 75%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
+          name: Wordpress
+          level: 80%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: Photoshop
+          level: 50%
         - skill:
-          name: Sketch & Photoshop
+          name: Sketch & AdobeXD
           level: 60%
 
 
