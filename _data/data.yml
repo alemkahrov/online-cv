@@ -50,23 +50,41 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a motivated and passioned Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are always responsive for any device. My other skills include Wordpress, Photoshop, AdobeXD and Sketch. I'm motivated in learning new technologies to become a Full Stack Developer in Future.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: Hi, my name is Alem and I am a passioned Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are always responsive for any device. My other skills include Wordpress, Photoshop, AdobeXD and Sketch. I'm motivated in learning new technologies to become a Full Stack Developer in Future.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: Advanced CSS/SASS Developer
+      university: Udemy - Online Course
+      time: 06/2018 - Current
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      degree: Diplom-Lehrgang Web Developer Javascript
+      university: WIFI Wien
+      time: 12/2017 - 03/2018
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+      
+    - education:
+      degree: Full Stack Web Developer Bootcamp
+      university: Udemy - Online Course
+      time: 07/2017 - Current
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+      
+    - education:
+      degree: Zertifizierte Fachqualifizierung Buchhaltung 
+      university: ZIB Training GmbH, 1220 Wien
+      time: 09/2015 - 11/2015
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
