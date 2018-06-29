@@ -161,8 +161,8 @@ projects:
     projects:
       - project:
         title: Vienna City Transfer
-        link: <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
-        tagline: "A responsive wordpress website using a template."
+        link: K. u. K. Hofbarbier
+        tagline: "My first project build with pure HTML5/CSS3."
       - project:
         title: DevStudio
         link: "#"
