@@ -192,10 +192,5 @@ skills:
         - skill:
           name: Photoshop
           level: 50%
-        - skill:
-          name: Sketch & AdobeXD
-          level: 60%
+        
 
-
-footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
