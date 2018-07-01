@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: alem.kahrovic84@gmail.com
     phone: +436605083123
-    website: blog.webjeda.com #do not add http://
+    #do not add http://
     linkedin: alemkahrov
     github: alemkahrov
 
@@ -32,6 +32,9 @@ sidebar:
           level: Native
         
     interests:
+        - interest:
+          item: UI/UX Design
+          link:
         - interest:
           item: Calesthenics & Brazilian Jiu Jitsu
           link:
@@ -49,7 +52,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are responsiv for any device. My other skills include Wordpress. I'm motivated in learning new technologies to become a Full Stack Developer in Future. <a href="https://www.vienna-city-transfer.at">Wordpress Project 1</a> <a href="https://www.mpv-gmbh.at">Wordpress Project 2</a>
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are responsive for any device. My other skills include Wordpress & Photoshop. I'm motivated in learning new technologies to become a Full Stack Developer in Future. <a href="https://www.vienna-city-transfer.at">Wordpress Project 1</a> <a href="https://www.mpv-gmbh.at">Wordpress Project 2</a>
 
 studies: 
     - education:
@@ -155,8 +158,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Here are some of my prototype/redesigns & real world projects. I work everyday on new projects, so the list will be updated."
     
     projects:
       - project:
@@ -185,7 +187,7 @@ skills:
           level: 10%
         - skill:
           name: Bootstrap/Materialize
-          level: 75%
+          level: 60%
         - skill:
           name: Wordpress
           level: 80%
