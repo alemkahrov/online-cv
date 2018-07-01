@@ -157,7 +157,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: "Here are some of my prototype/redesigns & real world projects. I work everyday on new projects, so the list will be updated."
+    intro: "Here are some of my prototype/redesigns & real world projects. I work everyday on new projects, so the list will be updated soon."
     
     projects:
       - project:
@@ -180,7 +180,7 @@ skills:
     skills:
         - skill:
           name: HTML5 & CSS3/SASS
-          level: 90%
+          level: 80%
         - skill:
           name: Javascript & jQuery
           level: 10%
