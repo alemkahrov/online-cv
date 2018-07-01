@@ -16,7 +16,6 @@ sidebar:
     # Sidebar links
     email: alem.kahrovic84@gmail.com
     phone: +436605083123
-    #do not add http://
     linkedin: alemkahrov
     github: alemkahrov
 
@@ -153,7 +152,7 @@ experiences:
         - role: Employee in order processing
           time: 07/2002 - 11/2005
           company: Goodyear & Dunlop, Vienna
-          details: Personal Training & Administration work
+          details: Phone Sale
 
 
 projects:
