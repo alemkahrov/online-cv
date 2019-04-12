@@ -32,9 +32,6 @@ sidebar:
         
     interests:
         - interest:
-          item: UI/UX Design
-          link:
-        - interest:
           item: Calesthenics & Brazilian Jiu Jitsu
           link:
         - interest:
@@ -55,9 +52,18 @@ career-profile:
 
 studies: 
     - education:
+      degree: GatsbyJS Static Site Developer
+      university: Udemy - Online Course
+      time: 04/2019 - Current
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+      
+    - education:
       degree: Advanced CSS/SASS Developer
       university: Udemy - Online Course
-      time: 06/2018 - Current
+      time: 06/2018 - 02/2019
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -185,13 +191,13 @@ skills:
           name: Javascript & jQuery
           level: 10%
         - skill:
-          name: Bootstrap/Materialize
+          name: Bootstrap
           level: 60%
         - skill:
           name: Wordpress
           level: 70%
         - skill:
           name: Photoshop
-          level: 50%
+          level: 30%
         
 
