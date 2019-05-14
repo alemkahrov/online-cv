@@ -32,10 +32,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Calesthenics & Brazilian Jiu Jitsu
+          item: React, Graphql, VueJS, Javascript
           link:
         - interest:
-          item: Action Figures
+          item: Collecting Action Figures
           link:
         - interest:
           item: Nature
@@ -48,22 +48,19 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript or Jquery which are responsive for any device. Writing clean, structured & maintable Code (BEM) is one of my special skill. My other skills include Wordpress & Photoshop. I'm motivated in learning new technologies to become a Full Stack Developer in Future. <a href="https://www.vienna-city-transfer.at">Wordpress Project 1</a> <a href="https://www.mpv-gmbh.at">Wordpress Project 2</a>
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code (BEM) is one of my special skill. My other skills include GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. <a href="https://www.langolo.at">Italian Bistro Project</a>.
 
 studies: 
     - education:
       degree: GatsbyJS Static Site Developer
       university: Udemy - Online Course
-      time: 04/2019 - Current
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      time: 04/2019 - 05/2019
+      details: "In this course i learned all the basic features of GatsbyJS and finished one practical project. After this course i was able to find a client and start developing a restaurant website from scratch."
       
     - education:
       degree: Advanced CSS/SASS Developer
       university: Udemy - Online Course
-      time: 06/2018 - 02/2019
+      time: 06/2018 - 08/2019
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -130,15 +127,19 @@ experiences:
     
     
     experiences:
+        - role: Junior Front End Developer
+          time: 08/2018 - 04/2019
+          company: Asoluto - communications + digital solutions
+          details: My web development career has start at this company. I was working on several projects like:
+          www.rhinospray.at
+          www.zak-services.com
+          www.georg-aichinger.at
+          www.lassdichanschauen.at, my main focus was on the front end.
+          
         - role: Freelancer
           time: 05/2018
           company: Vienna City Transfer, Vienna
           details: This company offers Airport Transfers and Business Trips. This website was build with Wordpress/Theme. 
-
-        - role: Freelancer
-          time: 04/2018
-          company: MPV Insurance GesmbH, Vienna
-          details: A Startup company which offers all kind of insurances. This website was build with Wordpress & Elementor.
         
         - role: CEO Online Shop
           time: 2013 - 2017
@@ -167,17 +168,17 @@ projects:
     
     projects:
       - project:
-        title: K. u. K. Hofbarbier
+        title: L'angolo di Michel
         link: "#"
-        tagline: "My first project build with pure HTML5/CSS3."
-      - project:
-        title: MPV Versicherung GmbH
-        link: "#" 
-        tagline: "A responsive website build with Wordpress and Elementor."
+        tagline: "For the first time i have used GatsbyJS static site generator with Graphql and headless CMS like Contentful."
       - project:
         title: Vienna City Transfer
         link: "#"
         tagline: "A responsive website build with Wordpress and Chauffeur Theme."
+      - project:
+        title: Facebook/Social Media Theme
+        link: "#" 
+        tagline: "This project was for testing my flexbox skills. It is 90% complete, the responsive part is not done yet!"
 
 
 
@@ -185,17 +186,23 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: HTML5 & CSS3/SASS
+          name: HTML5 & CSS3 (Flexbox, CSS Grid)
           level: 80%
         - skill:
           name: Javascript & jQuery
           level: 10%
         - skill:
+          name: SASS/SCSS
+          level: 80%
+        - skill:
+          name: Tools (Git, Gulp, Npm)
+          level: 50%
+        - skill:
           name: Bootstrap
           level: 60%
         - skill:
-          name: Wordpress
-          level: 70%
+          name: GatsbyJS Static
+          level: 50%
         - skill:
           name: Photoshop
           level: 30%
