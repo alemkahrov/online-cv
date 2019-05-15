@@ -130,7 +130,7 @@ experiences:
         - role: Junior Front End Developer
           time: 08/2018 - 04/2019
           company: Asoluto - communications + digital solutions
-          details: My web development career has start at this company. I was working on several projects and my main part was on the front end including gitlab, sass, npm. 
+          details: My web development career has start at this company. I was working on several projects and my main part was on the front end including tools like gitlab, sass, npm. 
          
         - role: Freelancer
           time: 05/2018
@@ -165,7 +165,7 @@ projects:
     projects:
       - project:
         title: L'angolo di Michel
-        link: "#"
+        link: "www.langolo.at"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and headless CMS like Contentful."
       - project:
         title: Vienna City Transfer
