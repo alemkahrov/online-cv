@@ -48,7 +48,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code (BEM) is one of my special skill. My other skills include GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. <a href="https://www.langolo.at">Italian Bistro Project</a>. My works at asoluto agency: www.rhinospray.at, www.georg-aichinger.at, www.zak-services.com.
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code (BEM) is one of my special skill. My other skills include GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. <a href="https://www.langolo.at">Italian Bistro Project</a>. 
 
 studies: 
     - education:
@@ -130,8 +130,8 @@ experiences:
         - role: Junior Front End Developer
           time: 08/2018 - 04/2019
           company: Asoluto - communications + digital solutions
-          details: My web development career has start at this company. I was working on several projects and my main part was on the front end including gitlab, sass.
-          
+          details: My web development career has start at this company. I was working on several projects and my main part was on the front end including gitlab, sass. My works at asoluto agency:
+          text: <a href="https://www.rhinospray.at">Rhinospray</a>
         - role: Freelancer
           time: 05/2018
           company: Vienna City Transfer, Vienna
