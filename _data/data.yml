@@ -160,7 +160,7 @@ projects:
     
     projects:
       - project:
-        title: L'angolo di Michel 
+        title: L'angolo di Michel <a href="https://www.langolo.at">Italian Bistro Project</a>.
         link: "#"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
       - project:
