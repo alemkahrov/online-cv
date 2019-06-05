@@ -32,7 +32,7 @@ sidebar:
         
     interests:
         - interest:
-          item: ReactJS, VueJS, Javascript, UI Design, Static Site (Hugo, GatsbyJS)
+          item: ReactJS, VueJS, Javascript, UI Design, Static Site Generator (Hugo, GatsbyJS, Gridsome)
           link:
         - interest:
           item: Collecting Action Figures
@@ -48,7 +48,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. My other skills include GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. Check out my first Website build with GatsbyJS: <a href="https://www.langolo.at">Italian Bistro Project</a>. 
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. My other skills include GatsbyJS and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. 
 
 studies: 
     - education:
@@ -160,7 +160,7 @@ projects:
     
     projects:
       - project:
-        title: L'angolo di Michel
+        title: L'angolo di Michel <a href="https://www.langolo.at">Italian Bistro Project</a>.
         link: "#"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
       - project:
