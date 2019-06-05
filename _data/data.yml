@@ -32,7 +32,7 @@ sidebar:
         
     interests:
         - interest:
-          item: React, Graphql, VueJS, Javascript
+          item: ReactJS, VueJS, Javascript, UI Design, Static Site (Hugo, GatsbyJS)
           link:
         - interest:
           item: Collecting Action Figures
@@ -48,41 +48,32 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code (BEM) is one of my special skill. My other skills include GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. <a href="https://www.langolo.at">Italian Bistro Project</a>. 
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. My other skills include GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. Check out my first Website build with GatsbyJS: <a href="https://www.langolo.at">Italian Bistro Project</a>. 
 
 studies: 
     - education:
       degree: GatsbyJS Static Site Developer
       university: Udemy - Online Course
       time: 04/2019 - 05/2019
-      details: "In this course i learned all the basic features of GatsbyJS and finished one practical project. After this course i was able to find a client and start developing a restaurant website from scratch."
+      details: "In this course i learned all the basic features of GatsbyJS and finished one course project. After this course i was able to find a client and start developing a restaurant website from scratch."
       
     - education:
       degree: Advanced CSS/SASS Developer
       university: Udemy - Online Course
       time: 06/2018 - 08/2019
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "The main focus on this course was Flexbox & CSS Grid. I learned all the basics and at the end i finished 2 course projects. After this course i was able to prototype a social media site like facebook. "
 
     - education:
       degree: Diplom-Lehrgang Web Developer Javascript
       university: WIFI Wien
       time: 12/2017 - 03/2018
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "It was a basic course about Vanilla Javascript"
       
     - education:
       degree: Full Stack Web Developer Bootcamp
       university: Udemy - Online Course
       time: 07/2017 - Current
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "Basic HTML & CSS, Bootstrap 3, Vanilla Javascript."
       
     - education:
       degree: Zertifizierte Fachqualifizierung Buchhaltung 
@@ -127,10 +118,15 @@ experiences:
     
     
     experiences:
+    - role: Freelancer
+          time: 04/2019 - current
+          company: L'angolo di Michel
+          details: A Bistro that offers delicious original italian food. Used Technologies: GatsbyJS, Graphql, Contentful.
+    
         - role: Junior Front End Developer
           time: 08/2018 - 04/2019
           company: Asoluto - communications + digital solutions
-          details: My web development career has start at this company. I was working on several projects and my main part was on the front end including tools like gitlab, sass, npm. 
+          details: My web development career started at this company. I was working on several projects and my main part was on the frontend including tools like gitlab, sass, npm. 
          
         - role: Freelancer
           time: 05/2018
@@ -166,7 +162,7 @@ projects:
       - project:
         title: L'angolo di Michel
         link: "#"
-        tagline: "For the first time i have used GatsbyJS static site generator with Graphql and headless CMS like Contentful."
+        tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
       - project:
         title: Vienna City Transfer
         link: "#"
@@ -183,13 +179,13 @@ skills:
     skills:
         - skill:
           name: HTML5 & CSS3 (Flexbox, CSS Grid)
-          level: 80%
+          level: 70%
         - skill:
           name: Javascript & jQuery
           level: 10%
         - skill:
           name: SASS/SCSS
-          level: 80%
+          level: 70%
         - skill:
           name: Tools (Git, Gulp, Npm)
           level: 50%
