@@ -118,7 +118,7 @@ experiences:
     
     
     experiences:
-    - role: Freelancer
+        - role: Freelancer
           time: 04/2019 - current
           company: L'angolo di Michel
           details: A Bistro that offers delicious original italian food. Used Technologies: GatsbyJS, Graphql, Contentful.
