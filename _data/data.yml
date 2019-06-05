@@ -160,15 +160,15 @@ projects:
     
     projects:
       - project:
-        title: L'angolo di Michel <a href="https://www.langolo.at">Italian Bistro Project</a>
+        title: L'angolo di Michel <a href="https://www.langolo.at" target="_blank">Project</a>
         link: "#"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
       - project:
-        title: Vienna City Transfer
+        title: Vienna City Transfer <a href="https://vienna-city-transfer.at/" target="_blank">Project</a>
         link: "#"
         tagline: "A responsive website build with Wordpress and Chauffeur Theme."
       - project:
-        title: Facebook/Social Media Theme
+        title: Social Media prototype
         link: "#" 
         tagline: "This project was for testing my flexbox skills. It is 90% complete, the responsive part is not done yet!"
 
