@@ -164,6 +164,14 @@ projects:
         link: "#"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
       - project:
+        title: <a href="https://georg-aichinger.at//" target="_blank">Georg Aichinger Project</a>
+        link: "#"
+        tagline: "A Landing Page full responsive, build with HTML&CSS and Bootstrap 4. "
+      - project:
+        title: <a href="https://claudia-aichinger.com//" target="_blank">Claudi Pfandl Dentist Website</a>
+        link: "#"
+        tagline: "This was a older project and the goal here was to make the website look modern and responsive for any device. For this project i used Jekyll Static Site and Bootstrap 4."
+      - project:
         title: <a href="https://vienna-city-transfer.at/" target="_blank">Vienna City Transfer Project</a>
         link: "#"
         tagline: "A responsive website build with Wordpress and Chauffeur Theme."
