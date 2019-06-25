@@ -160,15 +160,15 @@ projects:
     
     projects:
       - project:
-        title: <a href="https://www.langolo.at" target="_blank">L'angolo di Michel Project</a>
+        title: <a href="https://www.langolo.at" target="_blank">L'angolo di Michel Website</a>
         link: "#"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
       - project:
-        title: <a href="https://georg-aichinger.at//" target="_blank">Georg Aichinger Project</a>
+        title: <a href="https://georg-aichinger.at//" target="_blank">Georg Aichinger Website</a>
         link: "#"
         tagline: "A Landing Page full responsive, build with HTML&CSS and Bootstrap 4. "
       - project:
-        title: <a href="https://claudia-aichinger.com//" target="_blank">Claudi Pfandl Dentist Website</a>
+        title: <a href="https://claudia-aichinger.com//" target="_blank">Dentist Website</a>
         link: "#"
         tagline: "This was a older project and the goal here was to make the website look modern and responsive for any device. For this project i used Jekyll Static Site and Bootstrap 4."
       - project:
@@ -190,7 +190,7 @@ skills:
           level: 70%
         - skill:
           name: Javascript & jQuery
-          level: 10%
+          level: 20%
         - skill:
           name: SASS/SCSS
           level: 70%
