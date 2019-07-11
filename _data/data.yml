@@ -48,7 +48,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. My other skills include GatsbyJS and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in Future. 
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in the Future. 
 
 studies: 
     - education:
@@ -118,8 +118,8 @@ experiences:
     
     
     experiences:
-        - role: Freelancer
-          time: 04/2019 - current
+        - role: Web Developer
+          time: 05/2019 - 06/2019
           company: L'angolo di Michel
           details: A Bistro that offers delicious original italian food. Used Technologies GatsbyJS, Graphql, Contentful to build this Website.
     
@@ -187,15 +187,15 @@ skills:
     skills:
         - skill:
           name: HTML5 & CSS3 (Flexbox, CSS Grid)
-          level: 70%
+          level: 80%
         - skill:
           name: Javascript & jQuery
           level: 20%
         - skill:
           name: SASS/SCSS
-          level: 70%
+          level: 50%
         - skill:
-          name: Tools (Git, Gulp, Npm)
+          name: Tools (Git, Npm)
           level: 50%
         - skill:
           name: Bootstrap
@@ -204,7 +204,7 @@ skills:
           name: GatsbyJS Static
           level: 50%
         - skill:
-          name: Photoshop
+          name: Photoshop, AdobeXD
           level: 30%
         
 
