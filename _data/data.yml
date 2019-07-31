@@ -50,7 +50,13 @@ career-profile:
     title: Career Profile
     text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in the Future. 
 
-studies: 
+studies:
+    - education:
+      degree: The Complete Javascript Course (ES6+, Ajax, Webpack)
+      university: Udemy - Online Course
+      time: 07/2019 - current
+      details: "In this course i learned all the basic features of GatsbyJS and finished one course project.
+      
     - education:
       degree: GatsbyJS Static Site Developer
       university: Udemy - Online Course
@@ -119,7 +125,7 @@ experiences:
     
     experiences:
         - role: Web Developer
-          time: 05/2019 - 06/2019
+          time: 06/2019
           company: L'angolo di Michel
           details: A Bistro that offers delicious original italian food. Used Technologies GatsbyJS, Graphql, Contentful to build this Website.
     
