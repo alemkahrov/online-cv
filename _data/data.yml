@@ -32,10 +32,10 @@ sidebar:
         
     interests:
         - interest:
-          item: ReactJS, VueJS, Javascript, UI Design, Static Site Generator (Hugo, GatsbyJS, Gridsome)
+          item: ReactJS, VueJS, Javascript, UI Design, Static Site Generator (GatsbyJS, NextJS)
           link:
         - interest:
-          item: Collecting Action Figures
+          item: Collecting Action Figures and Model Cars
           link:
         - interest:
           item: Nature
@@ -54,7 +54,7 @@ studies:
     - education:
       degree: The Complete Javascript Course inkl. ES6+, Ajax and Webpack
       university: Udemy - Online Course
-      time: 07/2019 - current
+      time: 09/2019 - current
       details: "In this course i learned all the basic features of GatsbyJS and finished one course project."
       
     - education:
@@ -125,12 +125,12 @@ experiences:
     
     experiences:
         - role: Web Developer
-          time: 06/2019
+          time: 04/2019 - 06/2019
           company: L'angolo di Michel
           details: I was workin on a small project for a italian bistro. The stack i used GatsbyJs, GraphQL and headless CMS. For the design i got the inspiration from dribbble.com. You can check the code on github. The complete website is hosted on netlify.com.
     
         - role: Junior Front End Developer
-          time: 08/2018 - 04/2019
+          time: 08/2018 - 03/2019
           company: Asoluto - communications + digital solutions
           details: My web development career started at this company. I was working on several projects and my main part was on the frontend including tools like gitlab, sass, npm. 
          
