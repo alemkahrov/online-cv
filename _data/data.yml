@@ -124,6 +124,11 @@ experiences:
     
     
     experiences:
+        - role: Front End Developer
+          time: 09/2019
+          company: Nexxar
+          details: 
+          
         - role: Web Developer
           time: 06/2019 - 07/2019
           company: L'angolo di Michel
@@ -165,23 +170,37 @@ projects:
     intro: "Here are some of my prototype/redesigns & real world projects. I work everyday on new projects, so the list will be updated soon."
     
     projects:
+      - redesign:
+        title: <a href="https://github.com/alemkahrov/bfree-shop-newsletter" target="_blank">BeFree Shop Newsletter</a>
+        link: "#" 
+        tagline: "Design to Code Project with Html, Css(Css Grid) and Responsive for tablet/mobile device."
+        
+      - redesign:
+        title: <a href="https://github.com/alemkahrov/elise-shop-newsletter" target="_blank">Elise Shop Newsletter</a>
+        link: "#" 
+        tagline: "Design to Code Project with Html, Css(Flexbox) and Responsive for mobile device."
+        
       - project:
         title: <a href="https://www.langolo.at" target="_blank">L'angolo di Michel Website</a>
         link: "#"
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
+        
       - project:
-        title: <a href="https://georg-aichinger.at//" target="_blank">Georg Aichinger Website</a>
+        title: <a href="https://https://www.rhinospray.at///" target="_blank">Rhinospray Website</a>
         link: "#"
-        tagline: "A Landing Page full responsive, build with HTML&CSS and Bootstrap 4. "
+        tagline: "This was my second project at Verdino that i created from scratch. Frontend stack i used was, Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
+        
       - project:
         title: <a href="https://claudia-aichinger.com//" target="_blank">Dentist Website</a>
         link: "#"
         tagline: "This was a older project and the goal here was to make the website look modern and responsive for any device. For this project i used Jekyll Static Site and Bootstrap 4."
+        
       - project:
         title: <a href="https://vienna-city-transfer.at/" target="_blank">Vienna City Transfer Project</a>
         link: "#"
         tagline: "A responsive website build with Wordpress and Chauffeur Theme."
-      - project:
+        
+      - redesign:
         title: <a href="https://github.com/alemkahrov/facebook-redesign" target="_blank">Social Media prototype</a>
         link: "#" 
         tagline: "This project was for testing my flexbox skills. It is 90% complete, the responsive part is not done yet! For Info, to see all the icons run a local server."
@@ -208,7 +227,7 @@ skills:
           level: 60%
         - skill:
           name: GatsbyJS Static
-          level: 50%
+          level: 40%
         - skill:
           name: Photoshop, AdobeXD
           level: 30%
