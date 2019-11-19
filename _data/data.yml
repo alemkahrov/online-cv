@@ -48,7 +48,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript/Jquery which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS, Graphql and Contentful. I'm motivated in learning new technologies to become a JS Full Stack Developer in the Future. 
+    text: Hi, my name is Alem and I am a passionate Self-taught Front End Developer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS/React and Graphql. I'm motivated in learning new technologies to become a JS Full Stack Developer in the Future. 
 
 studies:
     - education:
@@ -136,7 +136,7 @@ experiences:
     
         - role: Junior Front End Developer
           time: 08/2018 - 03/2019
-          company: Asoluto - communications + digital solutions
+          company: Verdino
           details: My web development career started at this company. I was working on several projects and my main part was on the frontend including tools like gitlab, sass, npm. 
          
         - role: Freelancer
@@ -186,7 +186,7 @@ projects:
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
         
       - project:
-        title: <a href="https://www.rhinospray.at" target="_blank">Rhinospray Website</a>
+        title: <a href="https://www.rhinospray.at/" target="_blank">Rhinospray Website</a>
         link: "#"
         tagline: "This was my second project at Verdino that i created from scratch. Frontend stack i used was, Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
         
