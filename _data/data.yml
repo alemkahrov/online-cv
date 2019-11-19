@@ -173,12 +173,12 @@ projects:
       - redesign:
         title: <a href="https://github.com/alemkahrov/bfree-shop-newsletter" target="_blank">BeFree Shop Newsletter</a>
         link: "#" 
-        tagline: "Design to Code Project with Html, Css(Css Grid) and Responsive for tablet/mobile device."
+        tagline: "Design to Code Project with Html, Css(Css Grid) and Responsive for tablet/mobile device. To see the project download the file and start the server with command gulp."
         
       - redesign:
         title: <a href="https://github.com/alemkahrov/elise-shop-newsletter" target="_blank">Elise Shop Newsletter</a>
         link: "#" 
-        tagline: "Design to Code Project with Html, Css(Flexbox) and Responsive for mobile device."
+        tagline: "Design to Code Project with Html, Css(Flexbox) and Responsive for mobile device. To see the project download the file and start the server with command gulp."
         
       - project:
         title: <a href="https://www.langolo.at" target="_blank">L'angolo di Michel Website</a>
@@ -186,12 +186,12 @@ projects:
         tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
         
       - project:
-        title: <a href="https://https://www.rhinospray.at///" target="_blank">Rhinospray Website</a>
+        title: <a href="https://www.rhinospray.at" target="_blank">Rhinospray Website</a>
         link: "#"
         tagline: "This was my second project at Verdino that i created from scratch. Frontend stack i used was, Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
         
       - project:
-        title: <a href="https://claudia-aichinger.com//" target="_blank">Dentist Website</a>
+        title: <a href="https://claudia-aichinger.com" target="_blank">Dentist Website</a>
         link: "#"
         tagline: "This was a older project and the goal here was to make the website look modern and responsive for any device. For this project i used Jekyll Static Site and Bootstrap 4."
         
