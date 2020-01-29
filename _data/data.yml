@@ -171,14 +171,14 @@ projects:
     
     projects:
       - redesign:
-        title: <a href="https://github.com/alemkahrov/bfree-shop-newsletter" target="_blank">BeFree Shop Newsletter</a>
+        title: <a href="https://alemkahrov.github.io/bfree-shop-newsletter/" target="_blank">BeFree Shop Newsletter</a>
         link: "#" 
-        tagline: "Design to Code Project with Html, Css(Css Grid) and Responsive for tablet/mobile device. To see the project download the file and start the server with command gulp."
+        tagline: "Design to Code Project with Html, Css(Css Grid) and Responsive for tablet/mobile device."
         
       - redesign:
         title: <a href="https://alemkahrov.github.io/elise-shop-newsletter/" target="_blank">Elise Shop Newsletter</a>
         link: "#" 
-        tagline: "Design to Code Project with Html, Css(Flexbox) and Responsive for mobile device. To see the project download the file and start the server with command gulp."
+        tagline: "Design to Code Project with Html, Css(Flexbox) and Responsive for mobile device."
         
       - project:
         title: <a href="https://www.langolo.at" target="_blank">L'angolo di Michel Website</a>
