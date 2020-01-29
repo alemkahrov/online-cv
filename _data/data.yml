@@ -199,11 +199,6 @@ projects:
         title: <a href="https://vienna-city-transfer.at/" target="_blank">Vienna City Transfer Project</a>
         link: "#"
         tagline: "A responsive website build with Wordpress and Chauffeur Theme."
-        
-      - redesign:
-        title: <a href="https://github.com/alemkahrov/facebook-redesign" target="_blank">Social Media prototype</a>
-        link: "#" 
-        tagline: "This project was for testing my flexbox skills. It is 90% complete, the responsive part is not done yet! For Info, to see all the icons run a local server."
 
 
 
