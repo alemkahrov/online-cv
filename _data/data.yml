@@ -177,12 +177,12 @@ projects:
     projects:
     
       - project:
-        title: <a href="https://alemkahrov.github.io/insure-landing-page/" target="_blank">Insure Landing Page</a>
+        title: <a href="https://gatsbyjs-insure-landing-page.netlify.app/" target="_blank">Insure Landing Page</a>
         link: "#" 
         tagline: "Design from FrontendMentors.io converted to Code with React/GatsbyJS and Responsive for desktop/tablet/mobile device."
         
       - project:
-        title: <a href="https://alemkahrov.github.io/easybank-landing-page/" target="_blank">Easybank Landing Page</a>
+        title: <a href="https://easybank-landing.netlify.app/" target="_blank">Easybank Landing Page</a>
         link: "#" 
         tagline: "Design from FrontendMentors.io converted to Code with Html, Css (SASS), Javascript and Responsive for desktop/tablet/mobile device."
         
