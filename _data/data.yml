@@ -175,7 +175,8 @@ projects:
     intro: "Here are some of my prototype/redesigns & real world projects. I try to work everyday on new projects, so the list will be updated soon."
     
     projects:
-      project:
+    
+      - project:
         title: <a href="https://alemkahrov/insure-landing-page/" target="_blank">Insure Landing Page</a>
         link: "#" 
         tagline: "Design from FrontendMentors.io converted to Code with React/GatsbyJS and Responsive for desktop/tablet/mobile device."
