@@ -32,7 +32,7 @@ sidebar:
         
     interests:
         - interest:
-          item: ReactJS, VueJS, Javascript, UI Design, Static Site Generator (GatsbyJS, NextJS)
+          item: ReactJS, GatsbyJS, NextJS, Javascript, UI Design
           link:
         - interest:
           item: Collecting Action Figures and Model Cars
@@ -52,10 +52,15 @@ career-profile:
 
 studies:
     - education:
+      degree: ReactJS Basic to Advanced Course
+      university: Udemy - Online Course
+      time: 03/2020 - current
+      
+    - education:
       degree: The Complete Javascript Course inkl. ES6+, Ajax and Webpack
       university: Udemy - Online Course
       time: 09/2019 - current
-      details: "In this course i learned all the basic features of GatsbyJS and finished one course project."
+      details: "In this course i learned all the basic features of GatsbyJS"
       
     - education:
       degree: GatsbyJS Static Site Developer
@@ -76,10 +81,10 @@ studies:
       details: "It was a basic course about Vanilla Javascript"
       
     - education:
-      degree: Full Stack Web Developer Bootcamp
+      degree: Web Developer Bootcamp
       university: Udemy - Online Course
-      time: 07/2017 - Current
-      details: "Basic HTML & CSS, Bootstrap 3, Vanilla Javascript."
+      time: 07/2017 - 12/2017
+      details: "HTML & CSS, Bootstrap 3, Vanilla Javascript."
       
     - education:
       degree: Zertifizierte Fachqualifizierung Buchhaltung 
@@ -129,7 +134,7 @@ experiences:
           company: Nexxar
           details: 
           
-        - role: Web Developer
+        - role: Web Developer - Freelancer
           time: 06/2019 - 07/2019
           company: L'angolo di Michel
           details: I was workin on a small project for a italian bistro. The first time i used GatsbyJs and headless CMS where the client can update the weekly menu-card by himself. The stack i used GatsbyJs, GraphQL, headless CMS and netlify. For the design i got the inspiration from dribbble.com.
@@ -167,9 +172,19 @@ experiences:
 
 projects:
     title: Projects
-    intro: "Here are some of my prototype/redesigns & real world projects. I work everyday on new projects, so the list will be updated soon."
+    intro: "Here are some of my prototype/redesigns & real world projects. I try to work everyday on new projects, so the list will be updated soon."
     
     projects:
+      project:
+        title: <a href="https://alemkahrov/insure-landing-page/" target="_blank">Insure Landing Page</a>
+        link: "#" 
+        tagline: "Design from FrontendMentors.io converted to Code with React/GatsbyJS and Responsive for desktop/tablet/mobile device."
+        
+      - project:
+        title: <a href="https://alemkahrov/easybank-landing-page/" target="_blank">Easybank Landing Page</a>
+        link: "#" 
+        tagline: "Design from FrontendMentors.io converted to Code with Html, Css (SASS), Javascript and Responsive for desktop/tablet/mobile device."
+        
       - redesign:
         title: <a href="https://alemkahrov.github.io/bfree-shop-newsletter/" target="_blank">BeFree Shop Newsletter</a>
         link: "#" 
