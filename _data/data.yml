@@ -32,7 +32,7 @@ sidebar:
         
     interests:
         - interest:
-          item: ReactJS, GatsbyJS, NextJS, UI Design
+          item: ReactJS, GatsbyJS, NextJS, UI Design, Webflow
           link:
         - interest:
           item: Collecting Action Figures and Model Cars
@@ -48,7 +48,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught UI Developer - Designer. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS/React and Graphql. Recently i started to dive more deeper into UI Design and Webflow because i love the visual aesthetics of the web. 
+    text: Hi, my name is Alem and I am a passionate Self-taught UI Developer - Designer with 2 years of experience. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS/React and Graphql. Recently i started to dive more deeper into UI Design and Webflow because i love the visual aesthetics of the web. 
 
 studies:
     - education:
@@ -118,6 +118,11 @@ experiences:
     
     
     experiences:
+        - role: UI Design & Development - Freelancer
+          time: 08/2020 - current
+          company: Mk hairstyle
+          details:
+          
         - role: Front End Developer
           time: 09/2019
           company: Nexxar
@@ -218,8 +223,11 @@ skills:
           name: GatsbyJS Static
           level: 40%
         - skill:
+          name: Webflow
+          level: 50%
+        - skill:
           name: Figma
-          level: 40%
+          level: 60%
         - skill:
           name: Photoshop
           level: 30%
