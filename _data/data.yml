@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Alem Kahrovic
-    tagline: Front End Developer / UI Designer
+    tagline: Developer / UI Designer
     pic: mypic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -32,10 +32,10 @@ sidebar:
         
     interests:
         - interest:
-          item: ReactJS, GatsbyJS, NextJS, UI Design, Webflow
+          item: GatsbyJS, NextJS, UI Design, Webflow
           link:
         - interest:
-          item: Collecting Action Figures and Model Cars
+          item: Collecting Model Cars
           link:
         - interest:
           item: Nature
@@ -48,13 +48,13 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, my name is Alem and I am a passionate Self-taught UI Developer - Designer with 2 years of experience. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS/React and Graphql. Recently i started to dive more deeper into UI Design and Webflow because i love the visual aesthetics of the web. 
+    text: Hi, my name is Alem and I am a passionate Self-taught UI Developer - Designer with 2 years of experience. I really enjoy building beautiful web pages in HTML5, CSS3 and Javascript which are responsive for any device. Writing clean, structured & maintable Code is one of my special skill. Also i have some basic knowledge in GatsbyJS and Graphql. Recently i started to dive more deeper into UI Design and Webflow because i love the visual aesthetics of the web. 
 
 studies:
     - education:
       degree: Complete Web Design Course - From Figma design to Webflow development
       university: Skillshare - Online Course
-      time: 07/2020 - current
+      time: 07/2020 - 10/2020
       
     - education:
       degree: ReactJS Fundamentals Course
@@ -186,14 +186,14 @@ projects:
         tagline: "Design to Code Project with Html, Css(Flexbox) and Responsive for mobile device."
         
       - project:
-        title: <a href="https://www.langolo.at" target="_blank">L'angolo di Michel Website</a>
-        link: "#"
-        tagline: "For the first time i have used GatsbyJS static site generator with Graphql and a headless CMS Contentful."
-        
-      - project:
         title: <a href="https://www.rhinospray.at/" target="_blank">Rhinospray Website</a>
         link: "#"
         tagline: "This was my second project at Verdino that i created from scratch. Frontend stack i used was, Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
+        
+       - project:
+        title: <a href="https://www.rhinospray.at/" target="_blank">Rhinospray Website</a>
+        link: "#"
+        tagline: "This was my second project at Verdino that i created from scratch. Stack i used: Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
         
       - project:
         title: <a href="https://claudia-aichinger.com" target="_blank">Dentist Website</a>
