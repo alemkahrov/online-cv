@@ -190,7 +190,7 @@ projects:
         link: "#"
         tagline: "This was my second project at Verdino that i created from scratch. Frontend stack i used was, Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
         
-       - project:
+      - project:
         title: <a href="https://www.rhinospray.at/" target="_blank">Rhinospray Website</a>
         link: "#"
         tagline: "This was my second project at Verdino that i created from scratch. Stack i used: Html, Css, Bootstrap 4, Sass and Gitlab. For Backend we used PHP and Processwire(CMS)."
